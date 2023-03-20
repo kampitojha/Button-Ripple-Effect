@@ -1,2 +1,2 @@
 # Button-Ripple-Effect
-I developed this button using HTML CSS JAVA
+I developed this button using HTML CSS Javascript
